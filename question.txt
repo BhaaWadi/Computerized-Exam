@@ -1,0 +1,46 @@
+the name of the teacher : bhaa
+the password1
+number the question is : 10
+Q
+what is the result 5+5
+10
+M
+what is the result 6+6
+12
+24
+6
+8
+T
+the result of 2+2 is 4
+true
+Q
+what is the result 5+4
+9
+T
+the result of 5+8 is 14
+false
+Exam time:15  
+Q  
+what is the result 9+9
+18
+M
+what is the result 20+20
+40
+20
+30
+50
+T
+the result of 16+16 is 32
+true
+M
+what is the result 7+7
+14
+20
+5
+6
+T
+the result of  50+50 is 105
+false
+
+
+
